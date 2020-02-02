@@ -72,6 +72,7 @@ public class DeviceSetupActivityFragment extends Fragment implements ServiceConn
      */
     // ****************************************
     public Accelerometer accelerometer;
+
     public SensorFusionBosch sensorFusionBosch;
     TextView acclReadOut;
     TextView angleReadOut;
