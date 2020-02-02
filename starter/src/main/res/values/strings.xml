@@ -30,7 +30,7 @@
   -->
 
 <resources>
-    <string name="app_name">MetaWear Android Starter</string>
+    <string name="app_name">MW Angle Reader 2</string>
     <string name="title_connecting">Connecting</string>
     <string name="title_reconnect_attempt">Reconnecting</string>
     <string name="message_wait">Please wait</string>
